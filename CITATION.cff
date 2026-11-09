@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Seeing Through the Clouds: A Leakage-Controlled, Spatially Held-Out Test of Sentinel-1 Radar for Optical Vegetation Gaps in Burundi"
+type: software
+authors:
+  - family-names: "Kana"
+    given-names: "Amédée"
+    email: "kanaamedee00@gmail.com"
+    orcid: "https://orcid.org/0009-0009-9620-6399"
+    affiliation: "Independent Researcher, Bujumbura, Burundi"
+abstract: "Tests whether Sentinel-1 radar improves Sentinel-2 NDVI gap-filling in Burundi, with spatially and temporally held-out evaluation and conformal prediction intervals."
+keywords:
+  - gap filling
+  - Sentinel-1
+  - Sentinel-2
+  - NDVI
+  - SAR-optical fusion
+  - conformal prediction
+  - Burundi
+license: MIT
+date-released: "2026-10-23"
+repository-code: "https://github.com/kanaamedee11/seeing-through-the-clouds-sar-gapfilling"
